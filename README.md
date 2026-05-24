@@ -42,14 +42,16 @@ Passionate about building modern Android applications, Python projects, and AI-p
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode,firebase" />
 </p>
 
-- Postman
+- Android Studio
+- Git
+- GitHub
+- VS Code
 - Firebase Console
-
----
-
+- Postman
+  
 ## 📂 Featured Projects
 
 ### 📱 Android Media Player Project

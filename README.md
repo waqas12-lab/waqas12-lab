@@ -1,16 +1,104 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Waqas Abbasi</h1>
 
-<!--
-**waqasu1290-lab/waqasu1290-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Android Developer • Python Developer • AI/ML Learner
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building modern Android applications, Python projects, and AI-powered solutions with clean UI and smooth user experience.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 📱 Android Developer using **Kotlin & Java**
+- 🐍 Python Developer
+- 🤖 AI/ML & Data Science Learner
+- 🎵 Built Professional Android Media Player Project
+- 🎮 Created Red Fly Ball Game using Python
+- 🔥 Interested in APIs, Firebase, and AI integration
+- 🎓 Software Engineering Student
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp" />
+</p>
+
+### 📱 Android Development
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
+</p>
+
+- Jetpack Compose
+- XML Layouts
+- REST APIs
+- Media Player API
+- Material Design
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+- Postman
+- Firebase Console
+
+---
+
+## 📂 Featured Projects
+
+### 📱 Android Media Player Project
+Professional Android media player application focused on:
+- Media Player API Integration
+- Audio Playback
+- Modern UI Design
+- Smooth Media Handling
+- Kotlin Development
+
+---
+
+### 🎮 Red Fly Ball Game
+Python game project focused on:
+- Game Logic
+- Problem Solving
+- Python Programming
+- Basic Game Mechanics
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waqasu1290-lab&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waqasu1290-lab&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Goals
+
+- Become Professional Android Developer
+- Become AI/ML Engineer
+- Become Data Scientist
+- Build AI-Powered Applications
+- Publish Professional Apps
+- Work Remotely as Software Engineer
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: [waqasu1290-lab](https://github.com/waqasu1290-lab)
+- Email: waqasu1290@gmail.com
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>

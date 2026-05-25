@@ -92,7 +92,7 @@ https://github.com/waqas12-lab/NoteFlow
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqasu1290-lab&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waqas12-lab&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

@@ -70,6 +70,22 @@ Python game project focused on:
 - Problem Solving
 - Python Programming
 - Basic Game Mechanics
+  
+---
+
+### 📝 NoteFlow
+Modern offline-first Android Notes App built with Kotlin, Jetpack Compose, Room Database, MVVM, StateFlow, Coroutines, and Material 3.
+
+🔗 Repository:  
+https://github.com/waqas12-lab/NoteFlow
+
+### ✨ Features
+- Material 3 UI
+- Room Database
+- MVVM Architecture
+- StateFlow
+- Dark Mode
+- Search & Pin Notes
 
 ---
 
